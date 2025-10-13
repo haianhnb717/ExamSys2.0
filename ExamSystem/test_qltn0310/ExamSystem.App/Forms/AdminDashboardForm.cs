@@ -2,11 +2,14 @@
 using System.Drawing;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
+using test_qltn0310.ExamSystem.App.Controls;
 
 namespace test_qltn0310.ExamSystem.App.Forms
 {
     public partial class AdminDashboardForm : Form
     {
+        private TableLayoutPanel layout;
+        private Panel contentPanel;
         public AdminDashboardForm()
         {
             InitializeComponent();
@@ -15,6 +18,42 @@ namespace test_qltn0310.ExamSystem.App.Forms
 
         private void BuildUI()
         {
+
+            layout = new TableLayoutPanel
+            {
+                Dock = DockStyle.Fill,
+                ColumnCount = 2,
+            };
+            layout.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 250)); // Sidebar width
+            layout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100));  // Main content
+            this.Controls.Add(layout);
+
+            // Sidebar
+            var sidebar = new AdminSidebar();
+            sidebar.PageChanged += page => MessageBox.Show($"Chuyển sang: {page}");
+            sidebar.SidebarResized += width => layout.ColumnStyles[0].Width = width; // 🔹 Cập nhật layout khi thu gọn/mở rộng
+            layout.Controls.Add(sidebar, 0, 0);
+
+            // Content Panel
+            contentPanel = new Panel
+            {
+                Dock = DockStyle.Fill,
+                BackColor = Color.WhiteSmoke
+            };
+            layout.Controls.Add(contentPanel, 1, 0);
+
+            // Test content
+            var label = new Label
+            {
+                Text = "Khu vực nội dung chính",
+                AutoSize = true,
+                Font = new Font("Segoe UI", 14, FontStyle.Bold),
+                ForeColor = Color.Gray,
+                Left = 50,
+                Top = 50
+            };
+            contentPanel.Controls.Add(label);
+
             this.Text = "Admin Dashboard";
             this.WindowState = FormWindowState.Maximized;
             this.BackColor = Color.White;
