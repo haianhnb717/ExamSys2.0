@@ -9,3 +9,16 @@ C:\Users\hoang\Source\Repos\ExamSystem\test_qltn0310\obj\Debug\ExamSystem.csproj
 C:\Users\hoang\Source\Repos\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.exe
 C:\Users\hoang\Source\Repos\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.pdb
 C:\Users\hoang\Source\Repos\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.exe.config
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\bin\Debug\test_qltn0310.exe.config
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\bin\Debug\test_qltn0310.exe
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\bin\Debug\test_qltn0310.pdb
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\ExamSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.exe.config
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.ExamSystem.App.Forms.AdminLoginForm.resources
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\ExamSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\ExamSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.exe
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\test_qltn0310.pdb
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrator\Source\Repos\ExamSys2.0\ExamSystem\test_qltn0310\obj\Debug\ExamSystem.csproj.Up2Date

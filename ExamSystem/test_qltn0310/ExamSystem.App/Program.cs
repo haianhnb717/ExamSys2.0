@@ -20,6 +20,8 @@ namespace test_qltn0310
             Application.SetCompatibleTextRenderingDefault(false);
             // Khởi động Form PortalSelector
             Application.Run(new ExamSystem.App.Forms.PortalSelectorForm());
+            // Application.Run(new ExamSystem.App.Forms.AdminDashboardForm());
+
         }
     }
 }
