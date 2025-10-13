@@ -75,7 +75,7 @@ namespace test_qltn0310.ExamSystem.App.Controls
 
             AddMenuItem("dashboard", "Dashboard", "Dash");
             AddMenuItem("users", "Quản lý người dùng", "Người dùng");
-            AddMenuItem("subjects", "Môn học & Ngân hàng", "Môn học");
+            AddMenuItem("subjects", "Môn học", "Môn học");
             AddMenuItem("question-bank", "Ngân hàng câu hỏi", "Câu hỏi");
             AddMenuItem("blueprints", "Ma trận đề thi", "Đề thi");
             AddMenuItem("exams", "Kỳ thi & Lịch trình", "Kỳ thi");

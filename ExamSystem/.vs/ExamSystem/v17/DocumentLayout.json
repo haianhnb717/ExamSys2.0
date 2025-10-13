@@ -3,42 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\forms\\subjectmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\forms\\subjectmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\forms\\subjectmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\forms\\subjectmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\controls\\adminsidebar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\controls\\adminsidebar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\controls\\adminsidebar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\controls\\admintopbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\controls\\admintopbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\controls\\admintopbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\controls\\admintopbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\controls\\admintopbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\controls\\admintopbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|solutionrelative:test_qltn0310\\examsystem.app\\controls\\adminsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExamSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBBEE83E-595A-44F2-B673-8A1697B0998B}|test_qltn0310\\ExamSystem.csproj|c:\\users\\administrator\\source\\repos\\examsys2.0\\examsystem\\test_qltn0310\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,40 +61,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminTopbar.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
-              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
-              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAowJ0AAAApAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SubjectManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs",
+              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs",
+              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:57:48.084Z",
+              "WhenOpened": "2025-10-13T22:38:09.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "SubjectManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs",
+              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs [Design]",
+              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Forms\\SubjectManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:38:05.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:22:00.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AdminTopbar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs [Design]",
               "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:57:41.127Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-13T21:57:41.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AdminSidebar.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.Designer.cs",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.Designer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.Designer.cs",
               "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.Designer.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "AdminDashboardForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\AdminDashboardForm.cs",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Forms\\AdminDashboardForm.cs",
@@ -102,7 +142,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Program.cs",
+              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Program.cs",
+              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:02:46.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs",
+              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Forms\\UserManagementForm.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAowCYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:22:06.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AdminDashboardForm.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Forms\\AdminDashboardForm.cs",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Forms\\AdminDashboardForm.cs",
@@ -115,24 +181,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdminSidebar.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
               "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwE0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T21:06:14.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "AdminTopbar.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
+              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
+              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Controls\\AdminTopbar.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAowJ0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:57:48.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AdminSidebar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs [Design]",
               "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Controls\\AdminSidebar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T21:06:11.067Z",
@@ -140,28 +218,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Program.cs",
-              "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.App\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.App\\Program.cs",
-              "RelativeToolTip": "test_qltn0310\\ExamSystem.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:02:46.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ExamSystem",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.csproj",
               "RelativeDocumentMoniker": "test_qltn0310\\ExamSystem.csproj",
               "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\ExamSys2.0\\ExamSystem\\test_qltn0310\\ExamSystem.csproj*",
               "RelativeToolTip": "test_qltn0310\\ExamSystem.csproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-13T21:31:03.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:31:03.291Z"
             }
           ]
         }
